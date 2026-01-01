@@ -1,0 +1,38 @@
+# exported by https://3dviewer.net
+newmtl Korra_Body_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+newmtl Korra_Costume00_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+newmtl Korra_Expressions_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+newmtl Korra_Props_Rigged_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+newmtl Korra_Props_WaterHand_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+newmtl KorraPropsSpawned
+Kd 1 1 1
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+map_Kd KorraPropsSpawned_BaseColor.png
